@@ -62,4 +62,4 @@ Il sistema analizza i dati storici e le previsioni meteo per suggerire azioni di
 
 ---
 
-© 2024 BiciManager - Sviluppato per chi ama le due ruote.
+© 2026 BiciManager - Sviluppato per chi ama le due ruote.
